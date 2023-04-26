@@ -26,6 +26,12 @@
   align-items: center;
   padding-top: 60px;
 }
+
+.main .icons {
+  display: flex;
+  gap: 8px;
+}
+
 .main .icon {
   width: 34px;
   flex-direction: row;

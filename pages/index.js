@@ -39,7 +39,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <div clasdName={styles.icons}>
+        <div className={styles.icons}>
           <img src="/dog.png" className={styles.icon} />
           <img src="/band.png" className={styles.icon} />
         </div>
