@@ -1,8 +1,9 @@
-# OpenAI API Quickstart - Node.js example app
+# OpenAI - Node.js Animal Band Name App
 
-This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+This is an example animal band name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
-![Text box that says name my pet with an icon of a dog](https://user-images.githubusercontent.com/10623307/213887080-b2bc4645-7fdb-4dbd-ae42-efce00d0dc29.png)
+![Text box that says name my pet with an icon of a dog and band]<img width="540" alt="Screenshot 2023-04-26 at 10 52 43 AM" src="https://user-images.githubusercontent.com/24834387/234615612-9af0b3a1-2966-4095-96c3-4b68be5aa0c7.png">
+)
 
 
 ## Setup
