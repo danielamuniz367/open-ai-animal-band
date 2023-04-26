@@ -28,6 +28,7 @@
 }
 .main .icon {
   width: 34px;
+  flex-direction: row;
 }
 .main h3 {
   font-size: 32px;
